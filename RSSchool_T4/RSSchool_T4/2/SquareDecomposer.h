@@ -2,6 +2,7 @@
 
 @interface SquareDecomposer : NSObject
 - (NSArray <NSNumber*>*)decomposeNumber:(NSNumber*)number;
+
 @end
 
 
